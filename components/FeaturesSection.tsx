@@ -12,8 +12,8 @@ const FeaturesSection: React.FC = () => {
       <div className="container mx-auto px-6">
         <div className="flex flex-col md:flex-row justify-between items-end mb-16 gap-6">
           <div className="max-w-2xl">
-            <h2 className="font-graffiti text-5xl md:text-6xl text-white mb-6 uppercase">Pourquoi choisir <span className="text-gradient">QLT</span> ?</h2>
-            <p className="text-gray-400 text-lg uppercase tracking-wider">L'art du détail au service de la performance.</p>
+            <h2 className="font-graffiti text-5xl md:text-6xl text-white mb-6 uppercase">Meilleur Pack Graphique <span className="text-gradient">FiveM 2026</span></h2>
+            <p className="text-gray-400 text-lg uppercase tracking-wider">Reshade, ENB et textures réalistes gratuits pour GTA 5.</p>
           </div>
           <div className="h-1 w-24 bg-gradient-to-r from-purple-500 to-orange-500 mb-4 hidden md:block"></div>
         </div>

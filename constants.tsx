@@ -7,49 +7,49 @@ export const GRAPHIC_PACKS: GraphicPack[] = [
     id: "qlt-ultra-v1",
     title: "Pack LOS ANGELES",
     description:
-      "Le pack ultime pour un réalisme absolu. Reflets 4K, météo dynamique et shaders optimisés.",
+      "Pack graphique GTA 5 gratuit avec textures 4K, Reshade et shaders réalistes. Alternative QuantV optimisée pour FiveM.",
     image: "/components/assets/GTA2.png",
     tag: "ULTRA",
-    features: ["Ray Tracing simulé", "Textures 4K", "Météo custom"],
+    features: ["Ray Tracing simulé", "Textures 4K", "ENB + Reshade"],
     price: "Boost/Subs",
   },
   {
     id: "qlt-pro-street",
     title: "Pack Japon STREET",
     description:
-      "Conçu pour le RP. Couleurs vibrantes et visibilité accrue sans perte de FPS.",
+      "Mod graphique FiveM gratuit avec FPS Boost et couleurs vibrantes. Idéal pour le RP, alternative légère à NVE.",
     image: "/components/assets/image3.png",
     tag: "PRO",
-    features: ["Optimisation FPS", "Color Grade Street", "Nuit sombre"],
+    features: ["FPS Boost", "Shaders optimisés", "Nuit réaliste"],
   },
   {
     id: "qlt-lite-perf",
-    title: "SOON Pack",
+    title: "Pack LITE",
     description:
-      "Améliorez vos visuels même sur petite config. Léger, propre et efficace.",
+      "Pack graphique pour petites configs. Textures réalistes légères et optimisation FiveM maximale.",
     image: "/components/assets/image2.png",
-    tag: "PRO",
-    features: ["Nettoyage flous", "Couleurs naturelles"," Optimisation FPS"],
+    tag: "LITE",
+    features: ["Ultra léger", "Couleurs naturelles", "FPS Boost"],
   },
 ];
 
 export const FEATURES: Feature[] = [
   {
     icon: <Cpu className="w-8 h-8" />,
-    title: "Pack Qualité Optimisé",
+    title: "FPS Boost Garanti",
     description:
-      "Des graphismes améliorés sans compromettre les performances de votre jeu.",
+      "Optimisation FiveM maximale : profitez de graphismes améliorés sans perte de performance, même sur petite config.",
   },
   {
     icon: <Monitor className="w-8 h-8" />,
-    title: "Qualité Visuelle 4K",
+    title: "Textures Réalistes 4K",
     description:
-      "Des textures retravaillées et des shaders de pointe pour un rendu digne des jeux next-gen.",
+      "Reshade et ENB pré-configurés avec shaders haute qualité. Une alternative gratuite à QuantV et NVE.",
   },
   {
     icon: <Zap className="w-8 h-8" />,
-    title: "Installation Rapide",
+    title: "Installation en 2 Minutes",
     description:
-      "Un guide d'installation simple et efficace pour profiter de vos nouveaux graphismes en 2 minutes.",
+      "Téléchargement gratuit avec guide vidéo. Aucune connaissance technique requise pour installer votre mod graphique GTA 5.",
   },
 ];

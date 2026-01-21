@@ -29,11 +29,11 @@ const BeforeAfterSlider: React.FC = () => {
       <div className="container mx-auto px-6">
         <div className="text-center mb-16">
           <h2 className="font-graffiti text-5xl md:text-6xl mb-4 text-gradient neon-glow">
-            Le Changement
+            Comparatif Avant/Après GTA 5
           </h2>
           <p className="text-gray-400 max-w-2xl mx-auto uppercase tracking-[0.2em]">
-            Faites glisser pour voir la différence entre le jeu original et QLT
-            Graphics.
+            Glissez pour comparer : GTA 5 original vs mod graphique gratuit avec
+            textures 4K et shaders réalistes.
           </p>
         </div>
 

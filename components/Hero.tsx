@@ -27,8 +27,8 @@ const Hero: React.FC = () => {
         </h1>
 
         <p className="max-w-xl text-gray-300 text-lg md:text-xl font-light tracking-wide mb-10 leading-relaxed">
-          Téléchargez nos mods graphiques FiveM gratuits : Reshade optimisé, textures 4K,
-          FPS Boost et shaders réalistes. Alternative NVE pour tous les configs.
+          Téléchargez nos pack graphiques FiveM gratuits : Reshade optimisé, textures 4K,
+          FPS Boost et shaders réalistes.
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 sm:gap-6 mb-16 md:mb-0">
